@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <linearGradient spreadMethod="pad" id="svg_5">
+   <stop offset="0.045593" stop-color="#3307f7"/>
+   <stop offset="0.975281" stop-color="#ccf808"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text style="cursor: move;" stroke="#000000" transform="matrix(6.478328288998,0,0,7.197889542516748,-1346.1209678609273,-781.3206257443478) " font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="Cursive" font-size="24" id="svg_1" y="147.331379" x="255.496774" stroke-width="0" fill="url(#svg_5)">PEV</text>
+ </g>
+</svg>
